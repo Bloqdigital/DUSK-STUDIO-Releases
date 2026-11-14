@@ -2,7 +2,7 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad1dfc67-a0d6-4523-940c-bd2024056b83" />
 
-## See your space in a new light.##
+## See your space in a new light
 
 Turn architectural photographs into lighting concepts in a focused Windows desktop workspace. Explore evening scenes, warmer atmospheres and new lighting directions using presets, custom briefs and your choice of local or cloud AI.
 

@@ -28,7 +28,11 @@ Use design-led presets or describe your own atmosphere. Guide fitting placement 
 
 The illustrated user guide is available inside DUSK through **Help → User Documentation**.
 
-Created by **Daniel Green / Bloqdigital**.
+### About the creator and supporting DUSK
+
+DUSK Studio is created by **Daniel Green / Bloqdigital** and is **free to download**. If you enjoy using it and would like to support its continued development, you can buy me a coffee. Any support is greatly appreciated.
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-f97316?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/bloqdigital)
 
 [Visit the DUSK website](https://dusk-ai.co.uk)
 

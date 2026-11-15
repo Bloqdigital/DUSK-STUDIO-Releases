@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="224" height="48" viewBox="0 0 224 48" role="img" aria-labelledby="title">
   <title id="title">Visit the DUSK website</title>
   <defs>
-    <linearGradient id="orange" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#fb841e"/>
-      <stop offset="1" stop-color="#ea650b"/>
+    <linearGradient id="sunset" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffac11"/>
+      <stop offset="1" stop-color="#fa3010"/>
     </linearGradient>
     <mask id="sun-stripes" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
       <rect width="100" height="100" fill="#fff"/>
@@ -16,10 +16,10 @@
       </g>
     </mask>
   </defs>
-  <rect width="224" height="48" rx="8" fill="url(#orange)"/>
-  <rect x="0.5" y="0.5" width="223" height="47" rx="7.5" fill="none" stroke="#fff" stroke-opacity=".18"/>
+  <rect width="224" height="48" rx="8" fill="#0b0b0b"/>
+  <rect x="0.5" y="0.5" width="223" height="47" rx="7.5" fill="none" stroke="#343434"/>
   <g transform="translate(17 10) scale(.28)">
-    <circle cx="50" cy="50" r="45" mask="url(#sun-stripes)" fill="#fff"/>
+    <circle cx="50" cy="50" r="45" mask="url(#sun-stripes)" fill="url(#sunset)"/>
   </g>
   <text x="55" y="29.5" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Visit DUSK website</text>
 </svg>

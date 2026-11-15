@@ -6,7 +6,9 @@
 
 Turn architectural photographs into lighting concepts in a focused Windows desktop workspace. Explore evening scenes, warmer atmospheres and new lighting directions using presets, custom briefs and your choice of local or cloud AI.
 
-### Download and get started
+## Download and get started
+
+**LATEST ALPHA RELEASE** - [ALPHA 8](https://github.com/Bloqdigital/DUSK-STUDIO-Releases/releases/tag/v0.1.0-alpha.8)
 
 1. Open this repository's **Releases** section and download the **DUSK Studio Windows Setup installer** (`.exe`).
 2. Run the installer and follow the Windows setup wizard.

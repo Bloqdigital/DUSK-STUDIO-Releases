@@ -32,7 +32,4 @@ The illustrated user guide is available inside DUSK through **Help → User Docu
 
 DUSK Studio is created by **Daniel Green / Bloqdigital** and is **free to download**. If you enjoy using it and would like to support its continued development, you can buy me a coffee. Any support is greatly appreciated.
 
-[![Buy me a coffee](assets/support-dusk.svg)](https://buymeacoffee.com/bloqdigital)
-
-[Visit the DUSK website](https://dusk-ai.co.uk)
-
+[![Buy me a coffee](https://raw.githubusercontent.com/Bloqdigital/DUSK-STUDIO-Releases/main/assets/support-dusk.svg)](https://buymeacoffee.com/bloqdigital) [![Visit the DUSK website](https://raw.githubusercontent.com/Bloqdigital/DUSK-STUDIO-Releases/main/assets/visit-dusk.svg)](https://dusk-ai.co.uk)
